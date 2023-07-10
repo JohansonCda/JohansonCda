@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on developing systems, especially web and software developing.<br>I have more than three years of experience in the area.<br>I'm currently learning web 3.0 topics, and i'm improving my english and french.<br>I like playing pc games and i love the pixel art.
+I'm working on developing systems, especially web.<br>I have more than three years of experience in the area.<br>I'm currently learning web 3.0 topics, and i'm improving my english and french.<br>I like playing pc games and i love the pixel art.
 
 
 # 💻 Tech Stack:
